@@ -1,0 +1,14 @@
+{
+    "name": "salimmejdoub/security-troller",
+    "description": "just for un project ",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Salim Mejdoub",
+            "email": "salim_mejdoub@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
