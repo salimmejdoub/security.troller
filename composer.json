@@ -2,6 +2,7 @@
     "name": "salimmejdoub/security-troller",
     "description": "Just a simple project for cryptind and decrypting project ",
     "type": "library",
+    "version": "1.0",
     "license": "MIT",
     "authors": [
         {
