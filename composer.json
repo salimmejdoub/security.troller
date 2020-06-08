@@ -1,20 +1,14 @@
 {
     "name": "salimmejdoub/security-troller",
-    "description": "Just a simple project for cryptind and decrypting project ",
-    "type": "library",
-    "version": "1.0.1",
-    "minimum-stability": "stable",
+    "description": "Just a simple project for cryptind and decrypting project",
+    "type": "package",
     "license": "MIT",
     "authors": [
         {
-            "name": "Salim Mejdoub",
+            "name": "salim mejdoub",
             "email": "salim_mejdoub@hotmail.com"
         }
     ],
-    "autoload": {
-        "psr-4": {
-            "security-troller\\" : "vendors/"
-        }
-    },
-    "require":{}
+    "minimum-stability": "dev",
+    "require": {}
 }
