@@ -9,6 +9,8 @@
             "email": "salim_mejdoub@hotmail.com"
         }
     ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "security-troller\\" : "vendors/"
