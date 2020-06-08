@@ -1,6 +1,6 @@
 {
     "name": "salimmejdoub/security-troller",
-    "description": "just for un project ",
+    "description": "Just a simple project for cryptind and decrypting project ",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -9,6 +9,7 @@
             "email": "salim_mejdoub@hotmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "php": "^7.2"
+    }
 }
