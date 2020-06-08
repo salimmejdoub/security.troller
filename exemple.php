@@ -1,5 +1,5 @@
 <?php
-require 'autoload.php';
+require './vendors/autoload.php';
 
 echo $cryptedString = SecurityTroller::doTheTroll("hello");
 

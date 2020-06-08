@@ -9,7 +9,10 @@
             "email": "salim_mejdoub@hotmail.com"
         }
     ],
-    "require": {
-        "salimmejdoub/security-troller": "^1.0"
-    }
+    "autoload": {
+        "psr-4": {
+            "security-troller\\" : "vendors/"
+        }
+    },
+    "require":{}
 }
