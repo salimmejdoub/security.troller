@@ -9,6 +9,6 @@
             "email": "salim_mejdoub@hotmail.com"
         }
     ],
-    "minimum-stability": "RC",
+    "minimum-stability": "RC",  
     "require": {}
 }
