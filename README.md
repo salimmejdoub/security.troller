@@ -1,5 +1,5 @@
 it's just a project for fun 
-crypt or to decrypt a string , you can use it for your passwords 
+crypt or to decrypt a string
 
 to use :
 
